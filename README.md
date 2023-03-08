@@ -1,5 +1,4 @@
-# about-fault-diagnosis
-一些关于设备故障诊断的项目实现连接  
+Some project implementation about equipment fault diagnosis   
 1.https://github.com/caiwd/PCCNN This is a repository of code and experiment data for paper  
 2.https://github.com/SNBQT/Limited-Data-Rolling-Bearing-Fault-Diagnosis-with-Few-shot-Learning  This is the corresponding repository of paper Limited Data Rolling Bearing Fault Diagnosis with Few-shot Learning  
 3.https://github.com/mingzhangPHD/Transfer-Learning-for-Fault-Diagnosis  This repository is for the transfer learning or domain adaptive with fault diagnosis.  
