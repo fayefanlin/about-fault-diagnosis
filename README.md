@@ -1,4 +1,4 @@
-Some project implementation about equipment fault diagnosis  
+## Some project implementation about equipment fault diagnosis  
   
 1.https://github.com/caiwd/PCCNN This is a repository of code and experiment data for paper  
 2.https://github.com/SNBQT/Limited-Data-Rolling-Bearing-Fault-Diagnosis-with-Few-shot-Learning  This is the corresponding repository of paper Limited Data Rolling Bearing Fault Diagnosis with Few-shot Learning  
