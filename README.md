@@ -12,4 +12,5 @@
 10.https://github.com/chekoduadarsh/Convolutional-XGBOOST   
 11.https://github.com/himanshub1007/Alzhimers-Disease-Prediction-Using-Deep-learning  A deep convolutional neural network based computer aided diagnosis system for the prediction of Alzheimer's disease in MRI images  
 12.https://github.com/WZMIAOMIAO/deep-learning-for-image-processing  
-13.https://github.com/khalooei/ALOCC-CVPR2018 Adversarially Learned One-Class Classifier for Novelty Detection  
+13.https://github.com/khalooei/ALOCC-CVPR2018 Adversarially Learned One-Class Classifier for Novelty Detection 
+  
